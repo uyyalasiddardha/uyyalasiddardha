@@ -2,16 +2,16 @@
 
 ## 🎓 About Me
 - B.Com (Computer Applications) Student
-- Interested in Data Analytics, AI & Business Technology
+- Passionate about Data Analytics, Artificial Intelligence, and Business Technology.
 - Learning Power BI, SQL, Excel, HTML and AI Tools
 
 ## 🛠 Skills
 - MS Excel
 - Power BI
-- MYSQL
+- MySQL
 - Dashboard Creation
 - Basic HTML
-- AI Tools (claude, chatgpt, copilot)
+- AI Tools (ChatGPT, Claude, GitHub Copilot)
 
 ## 📂 Projects
 - Resume Screening Tool
