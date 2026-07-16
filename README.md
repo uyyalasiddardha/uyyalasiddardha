@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Uyyala Siddardha 👋
 
-<!--
-**uyyalasiddardha/uyyalasiddardha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- B.Com (Computer Applications) Student
+- Interested in Data Analytics, AI & Business Technology
+- Learning Power BI, SQL, Excel, HTML and AI Tools
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- MS Excel
+- Power BI
+- MYSQL
+- Dashboard Creation
+- HTML
+- AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Resume Screening Tool
+- Business Dashboard (Power BI)
+- Student Attendance Dashboard
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/uyyalasiddardha
+- GitHub: https://github.com/uyyalasiddardha
