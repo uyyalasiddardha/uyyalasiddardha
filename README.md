@@ -10,8 +10,8 @@
 - Power BI
 - MYSQL
 - Dashboard Creation
-- HTML
-- AI Tools
+- Basic HTML
+- AI Tools (claude, chatgpt, copilot)
 
 ## 📂 Projects
 - Resume Screening Tool
