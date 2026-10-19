@@ -1,4 +1,4 @@
-# Hi, I'm Uyyala Siddardha 👋
+# Hi, I'm UYYALA SIDDARDHA👋
 
 ## 🎓 About Me
 - B.Com (Computer Applications) Student
